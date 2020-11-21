@@ -1,0 +1,6 @@
+@font-face{
+    font-family: "irlandesa";
+    src: url("font/irlandesa.eot");
+    src: url("font/irlandesa.woff") format("woff"),
+         url("font/irlandesa.ttf") format("truetype");
+}

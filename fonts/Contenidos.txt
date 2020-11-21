@@ -1,0 +1,76 @@
+WEB-SITE - BRP Amobramientos  
+
+
+Desarrollar el Sitio de BRP Amoblamientos, con HTML5 y CSS, teniendo en cuenta la estructura de HTML los detalles solicitados.
+
+
+
+MENU
+INICIO - EMPRESA - PRODUCTOS - CONTACTENOS 
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Inicio
+------------------------------------------------------------------------------------------------------------------------------------
+BRp Amoblamientos
+Página oficial de la empresa líder y especializada en la fabricación y distribución de muebles a medida con diseños exclusivos en el centro del país.
+
+
+LOGO GRANDE
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Nuestra Empresa
+
+BRP amoblamientos es una empresa que se dedica a diseñar, fabricar y comercializar muebles para el hogar o comercio. Siempre pensando en  evolucionar con la adquisición de tecnología que permita lograr un elevado standard de calidad en sus productos.
+Para ello además cuenta con un grupo humano compuesto por profesionales y operarios especializados, en ellos radica una de las grandes fortalezas de la Empresa. Es un personal calificado, eficiente y creativo que permite lograr innovación y también brindar confianza y exclusividad, siempre con el fin de llegar a la excelencia en nuestros productos, mejorando la calidad de vida de nuestros clientes y aplicando materias primas de alta calidad.
+Ofrecemos un catálogo variado, que incluye categorías como: cocinas, vestidores y placares, dormitorios, livings, comedores y baños.
+Actualmente nos encontramos distribuyendo nuestros productos en la provincia de Tucumán.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Productos
+Todos los amoblamientos se realizan con materiales y procesos que cumplen con los requisitos de calidad adecuados y las reglamentaciones medioambientales vigentes, generando el menor impacto nocivo sobre el medioambiente.
+
+Cocinas
+En BRP amoblamientos podrá amoblar por completo su cocina. Utilizamos materiales de primera calidad, trabajamos con melamina sobre mdf 18mm y realizamos trabajos laqueados, contamos con amplia variedad de accesorios y puertas, podrá elegir de vidrio, aluminio, con perfil manija o sistema proyectante.
+Siempre tenemos en cuenta sus gustos y necesidades, y por ello, si lo desea, podrá diseñar por completo sus muebles junto a nuestro equipo, porque nos preocupamos en asegurar  la conformidad final de cada cliente.
+
+Placares
+En BRP amoblamientos podrá organizar toda su ropa, calzados y accesorios. Utilizamos materiales de primera calidad, trabajamos con melamina sobre mdf 18mm, puertas corredizas con detalles en aluminio, con amplia variedad de colores. Además contamos con accesorios que podrán personalizar su placard, como pantaloneras, estantes tradicionales o extraíbles, cubos bandejas para calzados, entre otros.
+Siempre tenemos en cuenta sus gustos y necesidades, y por ello, si lo desea, podrá diseñar por completo sus muebles junto a nuestro equipo, porque nos preocupamos en asegurar  la conformidad final de cada cliente.
+
+
+Vestidores
+En BRP amoblamientos podrá diseñar y elegir entre muchos accesorios para sus vestidores, incluir pantaloneras, bandejas para calzados, estantes tradicionales o extraíbles, cubos, entre otros. Trabajamos con melamina sobre MDF 18mm de primera calidad, cantos termoadheridos y guías metálicas, con extracción total y cierre asistido opcional. Además brindamos diferentes líneas de colores para combinar.
+
+
+Baños
+BRB amoblamientos le ofrece amoblar y organizar todo su hogar, lo que incluye también el ambiente de cada baño. Tenemos para ofrecerle vanitorys, botiquín, porta toallas y demás complemento, para guardar todo lo necesario.
+Trabajamos con melamina sobre MDF 18mm, en casos solicitados realizamos laqueados, para impermeabilizar el mueble. Tendrá a elección cantos termoadheridos o de aluminio, guías metálicas, con extracción total y cierre asistido opcional, gran diversidad de accesorios y puertas: vidrio, aluminio, laqueadas, con manijas, con perfil manija.
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contactenos
+
+Santa Fe 1306 (Esquina Suipacha) – Córdoba - Argentina
+Horarios de atención: Lunes a viernes de 8:30 a 13:30 hs. y de 17 a 21 hs.
+Sábados de 9 a 13 hs.
+Teléfonos: (0381) 4234675 –  (0381) 153498800
+Mail: brpamoblamientos@gmail.com
+
+También puede seguirnos por nuestras redes sociales:
+Facebook - Twitter - Instagram - Google+
+
+
+
+----------------------------------------------------------------------------------------------
+COLORES WEB 
+http://htmlcolorcodes.com/es/
+
