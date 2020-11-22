@@ -18,3 +18,10 @@ font-family: 'Carrois Gothic SC', sans-serif; */
     width:100%;
     position:absolute;
 }
+
+/*LINEAS HORIZONTALES*/
+hr {
+  height: 3px;
+  width: 95%;
+  background-color: black;
+}
