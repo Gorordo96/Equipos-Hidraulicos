@@ -221,7 +221,7 @@ em {
 }
 
 .callout {
-  padding: 15rem 0;
+  padding: 30rem 0;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Proyectos.jpg");
   background-position: center center;
   background-repeat: no-repeat;
@@ -232,7 +232,7 @@ em {
   font-size: 3.5rem;
   font-weight: 700;
   display: block;
-  max-width: 30rem;
+  max-width: 50rem;
 }
 
 .portfolio-item {
@@ -400,4 +400,20 @@ a.btn.btn-primary.btn-xl.js-scroll-trigger {
 
 a.btn.btn-dark.btn-xl.js-scroll-trigger {
     border-radius: 2rem;
+}
+/*.. Animacion de Giro para iconos de acordeon ..*/
+.rotated{
+	animation-name: rotation;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+@keyframes rotation {
+  0% {
+    transform:rotate(0deg);
+  }
+  100% {
+    transform:rotate(360deg);
+  }
 }
