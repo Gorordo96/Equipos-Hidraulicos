@@ -382,3 +382,11 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+/* Estilo Texto de About...*/
+
+p.lead.mb-5 {
+    font-family: 'Font Awesome 5 Free';
+    font-style: oblique;
+    text-align: justify;
+}
