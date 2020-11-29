@@ -211,7 +211,7 @@ em {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #237b27db;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -339,6 +339,8 @@ a {
 a:hover, a:focus, a:active {
   color: #155d74;
 }
+/*Color Original*/
+/* #1D809F */
 
 .btn-primary {
   background-color: #1D809F !important;
@@ -372,7 +374,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #237b27db  !important;
 }
 
 .text-primary {
@@ -389,4 +391,13 @@ p.lead.mb-5 {
     font-family: 'Font Awesome 5 Free';
     font-style: oblique;
     text-align: justify;
+}
+
+/*.. Estilo de boton para que tenga radio circular */
+a.btn.btn-primary.btn-xl.js-scroll-trigger {
+    border-radius: 2rem;
+}
+
+a.btn.btn-dark.btn-xl.js-scroll-trigger {
+    border-radius: 2rem;
 }
