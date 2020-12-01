@@ -132,7 +132,7 @@ em {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #428e45;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -165,7 +165,7 @@ em {
 
 .sidebar-nav > .sidebar-brand {
   font-size: 1.2rem;
-  background: rgba(52, 58, 64, 0.1);
+  background: rgb(66 142 69);
   height: 80px;
   line-height: 50px;
   padding-top: 15px;
@@ -322,13 +322,13 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #428e45;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #1b381c;
   text-decoration: none;
 }
 
@@ -341,16 +341,18 @@ a:hover, a:focus, a:active {
 }
 /*Color Original*/
 /* #1D809F */
+/* #155d74 */
+
 
 .btn-primary {
-  background-color: #1D809F !important;
+  background-color: #428e45 !important;
   border-color: #1D809F !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #1b381c !important;
+  border-color: #1b381c !important;
 }
 
 .btn-secondary {
